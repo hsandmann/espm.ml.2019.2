@@ -1,5 +1,5 @@
 # espm.ml.2019.2
-# ESPM :: Inteligência Artificial - Machine Learning : 2019.2
+# ESPM :: Inteligência Artificial : Machine Learning
 
 ## Agenda
 
