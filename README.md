@@ -12,7 +12,7 @@
 | set.05 | Classificação e Predição <br><br> Conceito de distância <br><br> Nuvem de dados | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos básicos |
 |     12 | k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) |
 |     19 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nbpSYqyZeil_NLF8F0jUGu50HL73XDmL) Normalização e redução <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bLwoRJcxJFRMWvAQnFti35d5JeYyI_t) Eigenfaces |
-|     26 | Discussões e análise dos experimentos | Reconhecimento facial com OpenCV: PCA + SVM |
+|     26 | Discussões e análise dos experimentos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RIr3NCj4OGkaFkRYSAvItXeLujZhontQ) Reconhecimento facial com OpenCV: PCA + SVM |
 | out.03 | **Prova Parcial** | |
 |     10 | Tomada de decisões <br><br> Bayesian decision tree | |
 |     17 | Natural language processing (NLP) | |
@@ -51,6 +51,7 @@
 
 ## News
 
+- 2019.09.23: CBS News [Man credits this Apple Watch feature for helping save his father](https://www.cbsnews.com/news/apple-watch-saves-life-hard-fall-apple-watch-series-4-falling-emergency-bob-burdett/)
 - 2019.09.21: Twitter @PMERJ [Um homem foi preso, ... após o Sistema de Reconhecimento Facial emitir um alerta...](https://twitter.com/PMERJ/status/1175495473223872519)
 - 2019.09.16: OpenMind [Artificial Intelligence and Its Debt to the Mathematician Gödel](https://www.bbvaopenmind.com/en/technology/artificial-intelligence/artificial-intelligence-and-its-debt-to-the-mathematician-godel/)
 - 2019.09.13: IEEE Spectrum - [Video Friday: Watch This Robot Dog Explore an Underground Tunnel Autonomously](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-robots-explore-tunnels-darpa-subt)
