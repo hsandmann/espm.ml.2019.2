@@ -14,7 +14,7 @@
 |     19 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nbpSYqyZeil_NLF8F0jUGu50HL73XDmL) Normalização e redução <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bLwoRJcxJFRMWvAQnFti35d5JeYyI_t) Eigenfaces |
 |     26 | Discussões e análise dos experimentos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RIr3NCj4OGkaFkRYSAvItXeLujZhontQ) Reconhecimento facial - OpenCV: PCA + SVM |
 | out.03 | **Prova Parcial** | |
-|     10 | Tomada de decisões <br><br> Bayesian decision tree | |
+|     10 | Tomada de decisões <br> Bayesian decision tree | |
 |     17 | Natural language processing (NLP) | |
 |     24 | Discussões e análise dos experimentos |
 |     31 | **Apresentação de trabalhos** | |
