@@ -49,7 +49,7 @@
   - [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
   - [Edward Norton Lorenz](http://eaps4.mit.edu/research/Lorenz/publications.htm)'s Publications
 
-##  News
+## News
 
 - 2019.09.25: MIT Technology Review - [Google has released a giant database of deepfakes to help fight deepfakes](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/?utm_term=Autofeed&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=LinkedIn#Echobox=1569405611)
 - 2019.09.24: Wired - [Google’s ‘Quantum Supremacy’ Isn’t the End of Encryption](https://www.wired.com/story/googles-quantum-supremacy-isnt-end-encryption/)
