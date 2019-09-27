@@ -6,10 +6,10 @@
 | Data   | Conteúdo | Material |
 |-------:|----------|----------|
 | ago.08 | Apresentação e aplicações | vídeo: [This is A.I. - Discovery Channel - Inteligência Artificial - IBM](https://www.youtube.com/watch?v=H3P87qCdqk4) |
-|     15 | História, Conceitos e Automação em IA <br><br> Impactos na sociedade | simulador: [Moral Machine](http://moralmachine.mit.edu) <br> vídeo: [John McCarthy](https://www.youtube.com/watch?v=Ozipf13jRr4) <br> vídeo: [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) <br> artigo: [Harvard Business Review - Artificial Intelligence for the Real World](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world) |
+|     15 | História, Conceitos e Automação em IA <br> Impactos na sociedade | simulador: [Moral Machine](http://moralmachine.mit.edu) <br> vídeo: [John McCarthy](https://www.youtube.com/watch?v=Ozipf13jRr4) <br> vídeo: [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) <br> artigo: [Harvard Business Review - Artificial Intelligence for the Real World](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world) |
 |     22 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> site: [Colab](https://colab.research.google.com) |
 |     29 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./1trab.md) <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MlnemrzD8FkFeCyp6Pa-Mj7xzjqI2Ok_) Python introdução |
-| set.05 | Classificação e Predição <br><br> Conceito de distância <br><br> Nuvem de dados | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos básicos |
+| set.05 | Classificação e Predição <br> Conceito de distância <br> Nuvem de dados | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos básicos |
 |     12 | k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) |
 |     19 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nbpSYqyZeil_NLF8F0jUGu50HL73XDmL) Normalização e redução <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bLwoRJcxJFRMWvAQnFti35d5JeYyI_t) Eigenfaces |
 |     26 | Discussões e análise dos experimentos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RIr3NCj4OGkaFkRYSAvItXeLujZhontQ) Reconhecimento facial - OpenCV: PCA + SVM |
@@ -18,7 +18,7 @@
 |     17 | Natural language processing (NLP) | |
 |     24 | Discussões e análise dos experimentos |
 |     31 | **Apresentação de trabalhos** | |
-| nov.07 | Multi layer Perceptron (MLP) <br><br> Deep learning | artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br>  |
+| nov.07 | Multi layer Perceptron (MLP) <br> Deep learning | artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br>  |
 |     14 | Generative adversarial networks (GANs) | simulador: [GAN Lab](https://poloclub.github.io/ganlab/) <br> |
 |     21 | **Prova Final** | |
 | dez.05 | Substitutivas | |
