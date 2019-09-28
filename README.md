@@ -16,9 +16,9 @@
 | out.03 | **Prova Parcial** | |
 |     10 | Tomada de decisões <br> Bayesian decision tree | |
 |     17 | Natural language processing (NLP) | |
-|     24 | Discussões e análise dos experimentos |
-|     31 | **Apresentação de trabalhos** | |
-| nov.07 | Multi layer Perceptron (MLP) <br> Deep learning | artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br>  |
+|     24 | **Apresentação de trabalhos** | |
+|     31 | Multi layer Perceptron (MLP) | |
+| nov.07 | Deep learning | artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br>  |
 |     14 | Generative adversarial networks (GANs) | simulador: [GAN Lab](https://poloclub.github.io/ganlab/) <br> |
 |     21 | **Prova Final** | |
 | dez.05 | Substitutivas | |
