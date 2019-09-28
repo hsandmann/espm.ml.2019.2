@@ -1,5 +1,6 @@
-# espm.ml.2019.2
 # ESPM :: Inteligência Artificial : Machine Learning
+
+[Prof. Humberto Sandmann, PhD.](https://hsandmann.github.io/)
 
 ## Agenda
 
