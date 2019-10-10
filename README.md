@@ -15,7 +15,7 @@
 |     19 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nbpSYqyZeil_NLF8F0jUGu50HL73XDmL) Normalização e redução <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bLwoRJcxJFRMWvAQnFti35d5JeYyI_t) Eigenfaces |
 |     26 | Discussões e análise dos experimentos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RIr3NCj4OGkaFkRYSAvItXeLujZhontQ) Reconhecimento facial - OpenCV: PCA + SVM |
 | out.03 | **Prova Parcial** | |
-|     10 | Tomada de decisões <br> Bayesian decision tree | |
+|     10 | Tomada de decisões <br> Bayesian decision tree | artigo: [What AI-Driven Decision Making Looks Like](https://hbr.org/2019/07/what-ai-driven-decision-making-looks-like)<br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bEfgKPZQerDQgDv5kEkyVfStXZuAVAwP) Naïve Bayes for Text Classification |
 |     17 | Natural language processing (NLP) | |
 |     24 | **Apresentação de trabalhos** | |
 |     31 | Multi layer Perceptron (MLP) | |
@@ -35,7 +35,6 @@
 
 ## Referências
 
-
 - S. Russell; P. Norvig: **Artificial Intelligence: A Modern Approach** (3rd Edition), 2009.
 - Python
   - [Tutorial](https://www.tutorialspoint.com/python/)
@@ -46,12 +45,15 @@
   - [GauGAN: Changing Sketches into Photorealistic Masterpieces](https://youtu.be/p5U4NgVGAwg)
 - Fails
   - [Fooling automated surveillance cameras: adversarial patches to attack person detection](https://arxiv.org/abs/1904.08653) ([video](https://youtu.be/MIbFvK2S9g8))
+- [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
+- [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health-topics/assessing-cardiovascular-risk)
 - Chaos' Theory
   - [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
   - [Edward Norton Lorenz](http://eaps4.mit.edu/research/Lorenz/publications.htm)'s Publications
 
 ## News
 
+- 2019.10.09: Fortune [Artificial Intelligence Could Be a $14 Trillion Boon to the Global Economy—If It Can Overcome These Obstacles](https://fortune.com/2019/10/09/artificial-intelligence-14-trillion-boon-only-if-overcome-one-thing/)
 - 2019.09.25: MIT Technology Review - [Google has released a giant database of deepfakes to help fight deepfakes](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/?utm_term=Autofeed&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=LinkedIn#Echobox=1569405611)
 - 2019.09.24: Wired - [Google’s ‘Quantum Supremacy’ Isn’t the End of Encryption](https://www.wired.com/story/googles-quantum-supremacy-isnt-end-encryption/)
 - 2019.09.23: NewScientist - [Google claims it has finally reached quantum supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/)
