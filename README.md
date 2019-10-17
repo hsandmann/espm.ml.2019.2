@@ -16,10 +16,10 @@
 |     26 | Discussões e análise dos experimentos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RIr3NCj4OGkaFkRYSAvItXeLujZhontQ) Reconhecimento facial - OpenCV: PCA + SVM |
 | out.03 | **Prova Parcial** | |
 |     10 | Tomada de decisões <br> Bayesian decision tree | artigo: [What AI-Driven Decision Making Looks Like](https://hbr.org/2019/07/what-ai-driven-decision-making-looks-like)<br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bEfgKPZQerDQgDv5kEkyVfStXZuAVAwP) Naïve Bayes for Text Classification |
-|     17 | Natural language processing (NLP) | |
+|     17 | Natural language processing (NLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oi5J-W5cd6M0NwNBPleqmkbKzn2k2a38) RNN: Text Generator : Shakespeare <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZBGRljf8CnPXbhWyxd4c87M17jzAtpun) RNN: Text Generator : Camões |
 |     24 | **Apresentação de trabalhos** | |
-|     31 | Multi layer Perceptron (MLP) | |
-| nov.07 | Deep learning | artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br>  |
+|     31 | Multi layer Perceptron (MLP) | artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br> simulador: [Playground TensorFlow](http://playground.tensorflow.org) |
+| nov.07 | Deep learning | |
 |     14 | Generative adversarial networks (GANs) | simulador: [GAN Lab](https://poloclub.github.io/ganlab/) <br> |
 |     21 | **Prova Final** | |
 | dez.05 | Substitutivas | |
